@@ -10,7 +10,7 @@ __pycache__/
 config.py
 
 # big data file
-Resources\ratings.csv
+Resources/ratings.csv
 
 # Distribution / packaging
 .Python
