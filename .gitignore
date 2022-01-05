@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+# config
+config.py
+
+# big data file
+rating.csv
+
 # Distribution / packaging
 .Python
 build/
